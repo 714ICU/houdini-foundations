@@ -13,7 +13,7 @@ Houdini基础 中文手册
  
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: 目录:
    :numbered:
 
