@@ -28,3 +28,4 @@
 
     learning-houdini
     workspace
+    panes-desktops
