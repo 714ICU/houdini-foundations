@@ -6,7 +6,7 @@
 
 ### 项目介绍
 
-本书基于对英文版 <a href="https://media.sidefx.com/uploads/article/foundations-book/houdini_foundations_19_5_01.pdf">HOUDINI FOUNDATIONS BOOK</a>的翻译并结合自己的理解完成，欢迎大家指正。
+本书基于对英文版 <a href="https://media.sidefx.com/uploads/article/foundations-book/houdini_foundations_19_5_01.pdf">HOUDINI FOUNDATIONS BOOK</a>的翻译并结合自己的理解完成，欢迎大家指正。---- 持续更新中...
 
 ### 技术栈
 

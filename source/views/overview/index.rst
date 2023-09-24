@@ -29,3 +29,4 @@
     learning-houdini
     workspace
     panes-desktops
+    nodes-networks
