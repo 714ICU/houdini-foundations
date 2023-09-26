@@ -30,3 +30,4 @@
     workspace
     panes-desktops
     nodes-networks
+    parameters-channels-attributes
