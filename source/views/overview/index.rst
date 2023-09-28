@@ -31,3 +31,4 @@
     panes-desktops
     nodes-networks
     parameters-channels-attributes
+    selecting-geometry
