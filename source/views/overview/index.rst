@@ -32,3 +32,4 @@
     nodes-networks
     parameters-channels-attributes
     selecting-geometry
+    transform-edit
