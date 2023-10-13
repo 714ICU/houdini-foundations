@@ -33,3 +33,4 @@
     parameters-channels-attributes
     selecting-geometry
     transform-edit
+    modeling-tools
