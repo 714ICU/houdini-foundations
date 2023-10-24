@@ -34,3 +34,4 @@
     selecting-geometry
     transform-edit
     modeling-tools
+    uvs-textures
