@@ -35,3 +35,4 @@
     transform-edit
     modeling-tools
     uvs-textures
+    lookdev-shaders-materials
