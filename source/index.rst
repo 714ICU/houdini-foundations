@@ -18,6 +18,6 @@ Houdini基础 中文手册
    :numbered:
 
    views/overview/index
-   views/model/index
+   views/model-render-animate/index
 
 
