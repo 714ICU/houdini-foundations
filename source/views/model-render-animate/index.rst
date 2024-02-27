@@ -23,5 +23,9 @@
 - 如何使用刚体 **动力学(Rigid Body Dynamics)**
 
 
+.. toctree::
+    :caption: 本章节目录
+
+    explore-the-houdini-ui
 
 
